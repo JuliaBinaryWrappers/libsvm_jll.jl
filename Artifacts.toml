@@ -1,0 +1,113 @@
+[[libsvm]]
+arch = "aarch64"
+git-tree-sha1 = "e1a5946fd869a90c13c4028e1389fe3b54d324e4"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "d8b4034279733eccb7b4558423de5bf9c46682f2e599dc258a0df46d6873b053"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.aarch64-linux-gnu.tar.gz"
+[[libsvm]]
+arch = "aarch64"
+git-tree-sha1 = "50f141c7de4d734226a1badbdbf17315e081712c"
+libc = "musl"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "564e4faf6f0971ee2cfb4d84ceae982a122ba6943fa80bea03d1b31ef658bc3a"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.aarch64-linux-musl.tar.gz"
+[[libsvm]]
+arch = "armv7l"
+git-tree-sha1 = "4726e29f85743c26feb5230d749ea3ea46df5933"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "43d3d19a961dfac8e996f22b9deb159ccd767faedd9519ba1048c0c1b39c8321"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.armv7l-linux-gnueabihf.tar.gz"
+[[libsvm]]
+arch = "armv7l"
+git-tree-sha1 = "78c65f1e532103d626e91a2a48e35edc07e624e0"
+libc = "musl"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "e65790752bf513ea725f706c4e97534d790b3f5886b8d874c48466d4a3edc9d5"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.armv7l-linux-musleabihf.tar.gz"
+[[libsvm]]
+arch = "i686"
+git-tree-sha1 = "16164afa4b739971ac064d80e637ecc0bf711480"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "ae97e9afdfaabc490ce18922618134506fc326f7d7c2dddda48cc80eab17b08c"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.i686-linux-gnu.tar.gz"
+[[libsvm]]
+arch = "i686"
+git-tree-sha1 = "d90fe61cdcdd01b18aa52a428b711af5c95b447d"
+libc = "musl"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "88d58cfc3ce53fe80cef043b91e303710a5e95d73f07498328579fab5a822045"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.i686-linux-musl.tar.gz"
+[[libsvm]]
+arch = "i686"
+git-tree-sha1 = "289479d48c8803278ef476bbe17ba8de234f9770"
+os = "windows"
+
+    [[libsvm.download]]
+    sha256 = "658b2edb50bca605ff64bf7597b589861c55e38def04bb845b5862aafb0a2786"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.i686-w64-mingw32.tar.gz"
+[[libsvm]]
+arch = "powerpc64le"
+git-tree-sha1 = "e6828cacdef53328079b500ed3a4d3a9f711f5be"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "b8d1b169cf2090017aa19a216484d4bacd44d5786f225958fe44e4fd370a5a7a"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.powerpc64le-linux-gnu.tar.gz"
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "8b8c6d080aed80546345c175106f282dba1f44d1"
+os = "macos"
+
+    [[libsvm.download]]
+    sha256 = "3c6f15e4cf8fabfb515e9e0a22f2dd4f51b83beef98ed2ac22af0223ab2b858b"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.x86_64-apple-darwin14.tar.gz"
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "a56291ad3a0817e16967c4f5c5dfbb685cf9179e"
+libc = "glibc"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "96df5a42c9c45547e61c4a7077ea5e11ef02c5f18613e1e467ab5c4223c2a725"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.x86_64-linux-gnu.tar.gz"
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "9903065a8cca16471bdaf6b989fff17d3a8b3deb"
+libc = "musl"
+os = "linux"
+
+    [[libsvm.download]]
+    sha256 = "dbd7eaefdb2a8e0fe7c9262ad657f0dd5cfb49ea8a8c4dca221c907818d9ec5e"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.x86_64-linux-musl.tar.gz"
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "f9f76a1e6a6b33fa722d9bd0136efea4b8616a47"
+os = "freebsd"
+
+    [[libsvm.download]]
+    sha256 = "cf0a3dc565c98ff58ef2dd0249a19bf496b9e321390ac621d55253cf0e942222"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[libsvm]]
+arch = "x86_64"
+git-tree-sha1 = "4d4e7cd0d378cdb8edef2a03c3e51a7bc5c8f004"
+os = "windows"
+
+    [[libsvm.download]]
+    sha256 = "14a0d08eff0f1d40678e4a2f53fe6f505b1e1858dfabd2e7c5c85b8d0d8c5c37"
+    url = "https://github.com/JuliaBinaryWrappers/libsvm_jll.jl/releases/download/libsvm-v3.24.0+0/libsvm.v3.24.0.x86_64-w64-mingw32.tar.gz"
